@@ -1,0 +1,29 @@
+.blogItem {
+  list-style-type: none;
+  width: 90%;
+  margin-bottom: 20px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.header {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.description {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
+.hr-rule {
+  width: 100%;
+  color: #9aa5b1;
+  opacity: 0.4;
+}
